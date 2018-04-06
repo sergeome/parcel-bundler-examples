@@ -1,0 +1,11 @@
+{
+  "name": "01-process-html",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "@sergeome",
+  "devDependencies": {
+    "parcel-bundler": "^1.7.0"
+  }
+}

@@ -6,6 +6,7 @@
   },
   "author": "@sergeome",
   "devDependencies": {
+    "node-sass": "^4.8.3",
     "parcel-bundler": "^1.7.0"
   }
 }
